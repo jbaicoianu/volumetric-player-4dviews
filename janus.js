@@ -1,3 +1,5 @@
+// JanusWeb custom elements for displaying volumetric videos
+
 room.registerElement('volumetric_placeholder', {
   create() {
     this.createObject('object', {
